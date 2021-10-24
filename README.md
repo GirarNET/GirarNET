@@ -14,6 +14,7 @@ Conectar a las familias y empresas Antioqueñas a través de internet de alta ve
 Convertirnos en empresa líder en la prestación de servicios de internet de alta velocidad de Colombia, promoviendo el desarrollo sostenible y contribuyendo a la evolución de la sociedad.
 
 ## *NUESTROS VALORES**
+
 **Honestidad:** Somos transparentes y justos con nuestros clientes.
 
 **Credibilidad:** Cumplimos con los servicios ofrecidos y contribuimos a crear valor a nuestros clientes.

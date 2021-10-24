@@ -28,6 +28,12 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 **Compromiso Social:** En GIRARNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.</p>
 
 
+--------
+
+🧰 Toolbox
+
+--------
+
 <!--
 ### Hi there 👋
 **GirarNET/GirarNET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

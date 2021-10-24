@@ -4,7 +4,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1w5zw3khEIEhA-fClhdytGKQWcwAWfcNW">
 </p>
 
-<p class="text-justify">GIRARNET S.A.S con NIT ______ es una empresa que brinda servicios y soluciones en el sector de las Tecnologías de la Información y Comunicación -TIC. Está compuesta por un equipo altamente calificado, egresados del Instituto Tecnológico Metropolitano de Medellín -ITM. GIRARNET actualmente está enfocada en la prestación de servicios de internet de alta velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.
+GIRARNET S.A.S con NIT ______ es una empresa que brinda servicios y soluciones en el sector de las Tecnologías de la Información y Comunicación -TIC. Está compuesta por un equipo altamente calificado, egresados del Instituto Tecnológico Metropolitano de Medellín -ITM. GIRARNET actualmente está enfocada en la prestación de servicios de internet de alta velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.
 En GIRARNET S.A.S, además de trabajar en pro de la evolución digital creando infraestructuras de redes GPON sólidas, capaces de soportar grandes capacidades de tráfico, lo cual es supremamente importante para La Revolución 4.0 que vivimos actualmente; también estamos comprometidos con el avance social a través de capacitaciones y conferencias abiertas al público con el fin de disminuir la brecha digital y aportar a la educación, ya que es el pilar fundamental para  el desarrollo sostenible. 
 
 ## **MISIÓN**
@@ -25,7 +25,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
  
 **Innovación:** Creamos nuevos retos y nuevas propuestas de valor para impactar de manera positiva a nuestros clientes y así aportar a una mejor calidad de vida.
  
-**Compromiso Social:** En GIRARNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.</p>
+**Compromiso Social:** En GIRARNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.
 
 
 --------

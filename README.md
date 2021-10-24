@@ -31,7 +31,9 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 --------
 
 🧰 Toolbox
+
 <img src="https://drive.google.com/uc?export=view&id=1_ukCWXN3R4xegkJKeJUO2PIlo1c0cTg5)">
+
 --------
 
 <!--

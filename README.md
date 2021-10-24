@@ -1,7 +1,7 @@
 # **GIRARNET S.A.S**
 
 <p align="center">
-![](https://drive.google.com/uc?export=view&id=1w5zw3khEIEhA-fClhdytGKQWcwAWfcNW)
+<img src="https://drive.google.com/uc?export=view&id=1w5zw3khEIEhA-fClhdytGKQWcwAWfcNW">
 </p>
 
 GIRARNET S.A.S con NIT ______ es una empresa que brinda servicios y soluciones en el sector de las Tecnologías de la Información y Comunicación -TIC. Está compuesta por un equipo altamente calificado, egresados del Instituto Tecnológico Metropolitano de Medellín -ITM. GIRARNET actualmente está enfocada en la prestación de servicios de internet de alta velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.

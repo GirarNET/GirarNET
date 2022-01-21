@@ -46,10 +46,11 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 ## Contacto
 
-Operaciones@giranet.com.co
+- Operaciones@giranet.com.co
 
-+57 300 343 7758
-+57 315 225 0620
+- +57 300 343 7758
+- +57 315 225 0620
+- +57 301 721 3895
 
 --------
 

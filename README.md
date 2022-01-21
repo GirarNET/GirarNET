@@ -46,7 +46,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 ## Contacto
 
-- Operaciones@giranet.com.co
+- Operaciones@girarnet.com.co
 
 - +57 300 343 7758
 - +57 315 225 0620
@@ -60,6 +60,12 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 --------
 
 <!--
+
+
+Eliana cataño Marínez - CFO (Chief Financial Officer); Contadora del Instituto Tecnológico Metropolitano de Medellin.
+
+
+
 ### Hi there 👋
 **GirarNET/GirarNET** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

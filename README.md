@@ -34,15 +34,22 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 ## Nuestro equipo
 
 
-- Juan David Navarro Restrepo - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Juan David Navarro Restrepo** - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
 
-- Christian Camilo Gaviria Castro - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
+- **Christian Camilo Gaviria Castro** - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
 
-- Jhon Arley Perea Agualimpia - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Jhon Arley Perea Agualimpia** - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
 
-- Diego Alejandro Cordoba Dominguez - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Diego Alejandro Cordoba Dominguez** - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
 
+---
 
+## Contacto
+
+Operaciones@giranet.com.co
+
++57 300 343 7758
++57 315 225 0620
 
 --------
 

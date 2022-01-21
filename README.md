@@ -44,7 +44,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 ---
 
-## Contacto
+## Contactos
 
 **Correo electrónico:** Operaciones@girarnet.com.co
 

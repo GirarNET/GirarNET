@@ -29,6 +29,21 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 **Compromiso Social:** En GIRARNET S.A.S aportamos al aprendizaje y/o transferencia de conocimiento; ya que creemos en la educación como un pilar para el desarrollo sostenible de la sociedad.
 
 
+---
+
+## Nuestro equipo
+
+
+- Juan David Navarro Restrepo - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+
+- Christian Camilo Gaviria Castro - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
+
+- Jhon Arley Perea Agualimpia - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+
+- Diego Alejandro Cordoba Dominguez - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+
+
+
 --------
 
 🧰 Toolbox

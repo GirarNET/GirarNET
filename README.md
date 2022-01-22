@@ -50,7 +50,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 **WhatsApp:** +57 315 225 0620
 
-**Lineas Alternas:** +57 300 343 7758, +57 301 721 3895
+**Lineas Alternas:** +57 300 343 7758, +57 301 721 3895, +57 300 662 0814
 
 --------
 

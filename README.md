@@ -1,7 +1,8 @@
-# **GIRARNET S.A.S**
+
 
 <p align="center">
 <img src="https://drive.google.com/uc?export=view&id=1ViRp7elBOyDlVyc2bvdX03WhUjsDh9WP">
+ # **GIRARNET S.A.S**
 </p>
 
 GIRARNET S.A.S con NIT 901543664 es una empresa que brinda servicios y soluciones en el sector de las Tecnologías de la Información y Comunicación -TIC. Está compuesta por un equipo altamente calificado, egresados del Instituto Tecnológico Metropolitano de Medellín -ITM. GIRARNET actualmente está enfocada en la prestación de servicios de internet de alta velocidad por medio de fibra óptica hasta el usuario, usando el estándar GPON; con el cual se alcanzan velocidades de navegación superiores al internet cableado convencional.

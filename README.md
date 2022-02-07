@@ -9,7 +9,7 @@ GIRARNET S.A.S con NIT 901543664 es una empresa que brinda servicios y solucione
 En GIRARNET S.A.S, además de trabajar en pro de la evolución digital creando infraestructuras de redes GPON sólidas, capaces de soportar grandes capacidades de tráfico, lo cual es supremamente importante para La Revolución 4.0 que vivimos actualmente; también estamos comprometidos con el avance social a través de capacitaciones y conferencias abiertas al público con el fin de disminuir la brecha digital y aportar a la educación, ya que es el pilar fundamental para  el desarrollo sostenible. 
 
 ## **MISIÓN**
-Conectar a las familias y empresas a través de internet de alta velocidad por medio de fibra óptica usando tecnología GPON; aportando a la reducción de la brecha digital e  incentivando el uso de las nuevas tecnologías . 
+Conectar a las familias y empresas a través de internet de alta velocidad por medio de sistemas guiados y no guiados; aportando a la reducción de la brecha digital e incentivando el uso de las nuevas tecnologías. 
 
 ## **VISIÓN**
 Convertirnos en empresa líder en la prestación de servicios de internet de alta velocidad a nivel local y regional, promoviendo el desarrollo sostenible y contribuyendo a la evolución de la sociedad.

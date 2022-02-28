@@ -34,17 +34,19 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 ## Nuestro equipo
 
 
-- **Juan David Navarro Restrepo** - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Juan David Navarro Restrepo** - CEO (Chief Executive Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- **Christian Camilo Gaviria Castro** - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
+- **Christian Camilo Gaviria Castro** - CIO (Chief Information Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin. Ingeniero certificado en MTCNA, MTCTCE, MTCSE. AWS Certified Cloud Practicioner.
 
-- **Jhon Arley Perea Agualimpia** - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Jhon Arley Perea Agualimpia** - COO (Chief Operating Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
-- **Diego Alejandro Cordoba Dominguez** - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones del Instituto Tecnológico Metropolitano de Medellin.
+- **Diego Alejandro Cordoba Dominguez** - CSO (Chief Security Officer); Ingeniero de Telecomunicaciones de la Institución Universitaria ITM de Medellin.
 
 ---
 
 ## Contactos
+
+- 📫 How 
 
 **Correo electrónico:** Operaciones@girarnet.com.co
 
@@ -62,7 +64,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 <!--
 
 
-Eliana cataño Marínez - CFO (Chief Financial Officer); Contadora del Instituto Tecnológico Metropolitano de Medellin.
+Eliana cataño Marínez - CFO (Chief Financial Officer); Contadora de la Institución Universitaria ITM de Medellin.
 
 
 

@@ -46,7 +46,7 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 ## Contactos
 
-- 📫 How 
+ 📫 
 
 **Correo electrónico:** Operaciones@girarnet.com.co
 
@@ -54,18 +54,19 @@ Convertirnos en empresa líder en la prestación de servicios de internet de alt
 
 **Lineas Alternas:** +57 300 343 7758, +57 301 721 3895, +57 300 662 0814
 
---------
 
-🧰 Toolbox
-
-
---------
 
 <!--
 
 
 Eliana cataño Marínez - CFO (Chief Financial Officer); Contadora de la Institución Universitaria ITM de Medellin.
 
+--------
+
+🧰 Toolbox
+
+
+--------
 
 
 ### Hi there 👋
